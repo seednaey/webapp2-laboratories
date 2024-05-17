@@ -8,15 +8,14 @@
 
 <body>
   
-
 // VARIABLES
 
 <?php 
 $name = "Sidney John";
 $age = 21;
 $address = "Highview Hills Apalit, Pampanga";
-$hobbies = "Sports"; 
-$pet_peeve = "Slow internet, Overspraying perfume"; 
+$hobbies = "Sports, Singing, Music"; 
+$pet_peeve = "Slow Internet, Overspraying Perfume, Backstabber"; 
 
 echo $name . "\n";
 echo $age . "\n";
@@ -29,8 +28,8 @@ echo $pet_peeve . "\n";
 $name = "Your Name";
 $age = 25;
 $address = "Highview Hills Apalit, Pampanga";
-// $hobbies = "Sports";
-// $pet_peeve = "Slow internet, Overspraying perfume";
+// $hobbies = "Sports, Singing, Music";
+// $pet_peeve = "Slow Internet, Overspraying Perfume, Backstabber";
 
 echo $name . "\n";
 echo $age . "\n";
@@ -41,8 +40,8 @@ echo $address . "\n";
 define("NAME", "Sidney John");
 define("AGE", 21); 
 define("ADDRESS", "Highview Hills Apalit, Pampanga"); 
-define("HOBBIES", "Sports"); 
-define("PET_PEEVE", "Slow internet, Overspraying perfume,Backstaber"); 
+define("HOBBIES", "Sports, Singing, Music"); 
+define("PET_PEEVE", "Slow Internet, Overspraying Perfume, Backstabber"); 
 
 echo NAME . "\n";
 echo AGE . "\n";
@@ -62,7 +61,9 @@ var_dump(PET_PEEVE);
 // MULTI-LINE COMMENT
 
 /*
-
+* Slow Internet frustrates me when doing online activities because it causes a delay in a work.
+* Overspraying Perfume annoys me because for me less is more when it comes to perfume.
+* Backstabber irritates me because it creates a sense of untrustworthiness and betrayal to the person that he/she is talking about.
 */
 
 </body>
