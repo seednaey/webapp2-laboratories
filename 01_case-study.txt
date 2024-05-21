@@ -7,4 +7,3 @@ Moreover, proactive risk management and contingency planning were missing, leavi
 Effective communication, collaboration, and open channels among the team were lacking, hampering timely coordination and issue resolution.
 Finally, optimal resource allocation and load balancing could have prevented team members from becoming overloaded or understaffed, ensuring tasks were completed on time.
 By addressing these aspects proactively, we could have benefited from smoother progress, early issue detection, and a higher likelihood of meeting the launch date while maintaining product quality.
-
