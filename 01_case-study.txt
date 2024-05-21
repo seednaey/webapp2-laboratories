@@ -1,2 +1,10 @@
-As a software engineer, we could have prevented the current delays by setting a realistic timeline with buffers, prioritizing critical tasks, adopting agile with continuous testing, proactive risk management, effective team communication and collaboration, and optimal resource allocation. Addressing these proactively would have ensured smoother progress and a higher likelihood of meeting the launch date with quality.
+As a software engineer on this project, I believe we overlooked several crucial aspects that could have prevented the current delays and issues we're facing.
+We failed to account for potential roadblocks when setting an overlay ambitious timeline without buffer periods. 
+Proper tasks prioritization and allocation based on complexity and resources were likely lacking, leading to bottlenecks. 
+Additionally, we didn't adopt an agile methodoly with continous integration, testing, and feedback loops which could have caught issues much earlier.
+
+Moreover, proactive risk management and contingency planning were missing, leaving us unprepared for unexpected challenges. 
+Effective communication, collaboration, and open channels among the team were lacking, hampering timely coordination and issue resolution.
+Finally, optimal resource allocation and load balancing could have prevented team members from becoming overloaded or understaffed, ensuring tasks were completed on time.
+By addressing these aspects proactively, we could have benefited from smoother progress, early issue detection, and a higher likelihood of meeting the launch date while maintaining product quality.
 
